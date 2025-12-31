@@ -9,6 +9,6 @@ entries:
     name: devseccops-k8s-monitoring-agent
     type: application
     urls:
-    - https://ajrana70.github.io/helm-chart/devseccops-k8s-monitoring-agent-0.1.0.tgz
+    - https://ajrana70.github.io/helm-charts/devseccops-k8s-monitoring-agent-0.1.0.tgz
     version: 0.1.0
 generated: "2025-12-31T15:43:21.984059397+05:30"
