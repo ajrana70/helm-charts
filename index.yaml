@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  devseccops-k8s-monitoring-agent:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-12-31T15:43:21.984625178+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 57afbde1aef5555c1c98b8797e3a113ed3d389dea4e547a51ff2ffcef243b4d7
+    name: devseccops-k8s-monitoring-agent
+    type: application
+    urls:
+    - https://ajrana70.github.io/helm-chart/devseccops-k8s-monitoring-agent-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-12-31T15:43:21.984059397+05:30"
